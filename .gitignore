@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+cmake-build-debug/
+.DS_Store
+.idea/
